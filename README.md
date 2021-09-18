@@ -10,7 +10,7 @@ Hi there 👋
 <img src = "https://github-readme-stats.vercel.app/api?username=vaibhavd2103&show_icons=true&theme=synthwave"/>
 </p>
 `
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavd2103&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="Vaibhav" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavd2103&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="Yogesh" /></p>
 
 <hr/>
 
@@ -68,15 +68,6 @@ Hi there 👋
 </a>
 <a href="https://postman.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-</a>
-<a href="https://www.djangoproject.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
-</a>
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="django" width="40" height="40"/> 
 </a>
 <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
