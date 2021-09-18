@@ -17,14 +17,14 @@ Hi there 👋
 <h3 align="center">Connect with me over at</h3>
 
 <p align="center"> 
-<a href="https://twitter.com/vaibhavd2103" target="blank">
-    <img align="center" src="svgs/twitter.svg" alt="vaibhavd2103" height="30" width="40" />
+<a href="https://twitter.com/YogeshAero07" target="blank">
+    <img align="center" src="twitter.svg" alt="vaibhavd2103" height="30" width="40" />
 </a>
-<a href="https://instagram.com/vaibhavd2103" target="blank">
-    <img align="center" src="svgs/instagram.svg" alt="vaibhavd2103" height="30" width="40" />
+<a href="https://www.instagram.com/yogeshaero07/" target="blank">
+    <img align="center" src="instagram.svg" alt="vaibhavd2103" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/vaibhav-dange-2103" target="blank">
-    <img align="center" src="svgs/linkedin.svg" alt="vaibhavdange" height="30" width="40" />
+<a href="https://www.linkedin.com/in/yogeshaero07" target="blank">
+    <img align="center" src="linkedin.svg" alt="vaibhavdange" height="30" width="40" />
 </a>
 </p>
 
