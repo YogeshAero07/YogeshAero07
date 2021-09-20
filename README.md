@@ -7,10 +7,10 @@ Hi there 👋
 - 📫 How to reach me: @YogeshAero07, 9890248817, ypbhamare07@gmail.com
 
 <p align="center">
-<img src = "https://github-readme-stats.vercel.app/api?username=vaibhavd2103&show_icons=true&theme=synthwave"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=yogeshaero07&show_icons=true&theme=synthwave"/>
 </p>
 `
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavd2103&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="Yogesh" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshaero07&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="Yogesh" /></p>
 
 <hr/>
 
