@@ -37,7 +37,7 @@ Hi there 👋
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="react" width="40" height="40"/> 
 
 </a>
-<a href="https://expressjs.com/" target="_blank" style={{margin: "0 20px"}}> 
+<a href="https://expressjs.com/" target="_blank" style={{margin: "0 60px"}}> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="react" width="40" height="40"/> 
 </a>
 <a href="https://reactnative.dev/" target="_blank" style={{margin: "0 20px"}}> 
