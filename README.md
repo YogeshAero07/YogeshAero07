@@ -48,9 +48,6 @@ Hi there 👋
 <a href="https://firebase.google.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="react" width="40" height="40"/> 
 </a>
-<a href="https://www.python.org/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/> 
-</a>
 <a href="https://www.javascript.com/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="react" width="40" height="40"/> 
 </a>
