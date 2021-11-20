@@ -2,8 +2,8 @@
 Hi there 👋
 </h1>
 
-- 🔭 I’m worked in IO Portfol as a React front-end developer.
-- 🌱 I’m currently learning MERN Stack with React.js.
+- 🔭 I’m worked in "IO Portfol" as a "Web Development Intern".
+- 🌱 I’m currently learning MERN Stack using React.js at front-end.
 - 📫 How to reach me: @YogeshAero07, 9890248817, ypbhamare07@gmail.com
 
 <p align="center">
