@@ -23,7 +23,7 @@ Hi there 👋
 <a href="https://www.instagram.com/yogeshaero07/" target="blank">
     <img align="center" src="instagram.svg" alt="vaibhavd2103" height="30" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/yogeshaero07" target="blank">
+<a href="https://www.linkedin.com/in/ypbhamare07" target="blank">
     <img align="center" src="linkedin.svg" alt="vaibhavdange" height="30" width="40" />
 </a>
 </p>
